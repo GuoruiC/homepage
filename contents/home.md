@@ -1,20 +1,21 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![GuoruiC](https://img.shields.io/badge/Guorui_Chen-Scholar-blue?logo=googlescholar)](https://scholar.google.com/citations?user=pCNSSJ8AAAAJ)
+[![GuoruiC](https://img.shields.io/badge/GuoruiC-Github-blue?logo=github)](https://github.com/GuoruiC)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I'm currently pursuing a Ph.D. at the School of Information Management, Wuhan University, Wuhan, China.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>GuoRuiC@outlook.com</code>  
+<!-- <code>XX@XX.XX</code> -->
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**Central China Normal University**  
+• Undergraduate Statistics (2016-2020)
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
+**Wuhan University**  
+• Master of Materials and Chemical Engineering (2020-2022)
 
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+**Wuhan University**  
+• Ph.D. in Image Communication Engineering (2023-Present)
 
 #### Research Interests  
-XX, XX, XX, XX.
+LLM, MLLM, Safety and Alignment; Jailbreak Detection.
